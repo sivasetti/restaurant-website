@@ -15,6 +15,7 @@ and also
 background properties like 
 size,linear gradient, background-blend-mode to darken or to reduce the brightness instead we can also use filter() to make it possible.
 > This is a static webpage for showing a restaurant's services like menu, ordering food,e.tc
-Here's the deployed link:
+
+>Here's the deployed link:
 
 [Deployed Link]("")
