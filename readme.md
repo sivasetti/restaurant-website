@@ -17,4 +17,5 @@ size,linear gradient, background-blend-mode to darken or to reduce the brightnes
 > This is a static webpage for showing a restaurant's services like menu, ordering food,e.tc
 
 >Here's the deployed link:
-[Deployed Link]("https://restaurant-me.netlify.app")
+
+[Deployed Link]("https://restaurant-me.netlify.app/")
